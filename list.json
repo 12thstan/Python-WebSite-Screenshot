@@ -1,0 +1,31 @@
+[
+  {
+    "url": "https://check01.c12th.cn/status/c",
+    "timeout": 10,
+    "real_time_out": 15,
+    "height": 1080,
+    "width": 1920,
+    "daydel": 2,
+    "full_page": 1
+  },
+  
+  {
+    "url": "https://www.youtube.com",
+    "timeout": 10,
+    "real_time_out": 5,
+    "height": 1080,
+    "width": 1920,
+    "daydel": 2,
+    "full_page": 2
+  },
+
+  {
+    "url": "https://news.c12th.cn",
+    "timeout": 10,
+    "real_time_out": 5,
+    "height": 1080,
+    "width": 1920,
+    "daydel": 2,
+    "full_page": 1
+  }
+]
