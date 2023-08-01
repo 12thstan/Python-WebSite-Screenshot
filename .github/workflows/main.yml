@@ -2,9 +2,9 @@ name: selenium
 
 # Controls when the action will run. 
 on:
-  schedule:
+  # schedule:
     # * is a special character in YAML so you have to quote this string
-    - cron:  '0 6 * * *'  
+    # - cron:  '0 6 * * *'  
   # Triggers the workflow on push or pull request events but only for the main branch
 
   watch:
